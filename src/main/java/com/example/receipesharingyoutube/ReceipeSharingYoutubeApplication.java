@@ -8,6 +8,7 @@ public class ReceipeSharingYoutubeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ReceipeSharingYoutubeApplication.class, args);
+		System.out.println("Start");
 	}
 
 }
